@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/mlproject-main 2/artifacts"
+		},
+		{
+			"path": "../../../../Downloads/mlproject-main 2/catboost_info"
+		},
+		{
+			"path": "../../../../Downloads/mlproject-main 2/notebook"
+		},
+		{
+			"path": "../../../../Downloads/mlproject-main 2/src"
+		},
+		{
+			"path": "../../../../Downloads/mlproject-main 2/templates"
+		}
+	],
+	"settings": {}
+}
